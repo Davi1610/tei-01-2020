@@ -1,0 +1,20 @@
+O que é budget? Onde se usa? Exemplo.
+
+  Budget significa orçamento, ou seja, o planejamento financeiro e a estimativa
+das receitas, das despesas e dos investimentos de uma empresa.
+  O termo budget tornou-se popular com a instalação de empresas multinacionais. 
+Embora a tradução de budget seja simplesmente “orçamento”, no mundo corporativo,
+o significado de budget corresponde mais especificamente ao orçamento do tipo estático.
+  Por exemplo, se uma empresa fixar um volume de produção ou de vendas em seu orçamento,
+ela não poderá ajustar as metas durante o ano ainda que ocorra alguma alteração no mercado.
+
+
+O que é Burn Rate? Onde se usa? Exemplo.
+
+ Resumidamente, Burn Rate é o valor gasto por mês para bancar a operação do negócio.
+  O Burn Rate pode servir para calcular o tempo que vai levar até o negócio se pagar
+ou até atingir o break-even ou mesmo se tornar rentável.
+ Por exemplo, imagine que a Startup XPTO está gastando R$ 20.000,00 por mês, além do que eles estão
+tendo de receita. Então eles têm uma taxa Burn Rate de R$ 20.000,00 por mês ou 240k por ano. 
+O investidor, por exemplo, precisa saber na partida que tem que cobrir e fornecer dinheiro 
+suficiente para bancar esta diferença no período combinado.
